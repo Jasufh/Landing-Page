@@ -86,9 +86,55 @@ button{
 }
 
 .parte2{
-    margin-top: 20px;
+    margin: 100px 0 100px 0 ;
 }
 
+.parte3{
+    background-color: #E5E7EB;
+    padding: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.textoinfo{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+}
+
+.autor{
+    align-self: flex-end;
+    font-weight: bold;
+    color: #1F2937;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.bluebox{
+    width: 800px;
+    height: 150px;
+    background-color: #3882F6;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.parte4{
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    text-align: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 50px;
+}
 
 
 
